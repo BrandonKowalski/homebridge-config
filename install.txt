@@ -1,0 +1,5 @@
+sudo apt install nodejs libavahi-compat-libdnssd-dev ffmpeg
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+sudo apt install -y nodejs
+sudo npm install -g homebridge
+sudo npm install -g homebridge-tplink-smarthome
